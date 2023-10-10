@@ -1,10 +1,16 @@
+<br clear="both">
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h4 align="left">My name is Jainam Choudhari and I'm a CSE student, from Walchand Institute of Technology.</h4>
+<br clear="both">
+
+<h2 align="left">My name is Jainam Choudhari and I'm a CSE student, from Walchand Institute of Technology.</h2>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">As a highly motivated and driven final-year Btech student, I actively seek opportunities to enhance my knowledge and skill set while tackling real-world challenges. Through rigorous coursework, I have developed a profound understanding of Python, DBMS, Networks, DSA and Machine learning and data Science and am poised to delve deeper into these domains through immersive internships and practical engagement.<br><br>Beyond academia, I am a team player, engaging myself in a variety of physical activities such as outdoor games and yoga & meditation, cultivating invaluable traits such as physical fitness, teamwork, strategic thinking, and stress management. These experiences have fortified my ability to excel in high-pressure environments.</h2>
 
@@ -41,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jainam-choudhari" target="_blank">
+  <a href="https://www.linkedin.com/in/jainam-choudhari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ChoudhariJainam" target="_blank">
@@ -54,9 +60,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JainamChoudhari16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Programming" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JainamChoudhari16/JainamChoudhari16/output/snake.svg" alt="Snake animation" />
 
 ###
