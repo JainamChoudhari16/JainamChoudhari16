@@ -1,16 +1,10 @@
-<br clear="both">
-
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<br clear="both">
-
 <h2 align="left">My name is Jainam Choudhari and I'm a CSE student, from Walchand Institute of Technology.</h2>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">As a highly motivated and driven final-year Btech student, I actively seek opportunities to enhance my knowledge and skill set while tackling real-world challenges. Through rigorous coursework, I have developed a profound understanding of Python, DBMS, Networks, DSA and Machine learning and data Science and am poised to delve deeper into these domains through immersive internships and practical engagement.<br><br>Beyond academia, I am a team player, engaging myself in a variety of physical activities such as outdoor games and yoga & meditation, cultivating invaluable traits such as physical fitness, teamwork, strategic thinking, and stress management. These experiences have fortified my ability to excel in high-pressure environments.</h2>
 
