@@ -11,13 +11,13 @@
 </div>
 
 <br>
-- 🔭 I’m seeking opportunities in Data Science or Python Development roles.
+🔭 I’m seeking opportunities in Data Science or Python Development roles.
   
-- 🌱 I’m currently diving deep into **Python**, mastering its various libraries and applications.
+🌱 I’m currently diving deep into **Python**, mastering its various libraries and applications.
 
-- 📫 Reach out to me at **[Your Email Address Here]**
+📫 Reach out to me at **[Your Email Address Here]**
 
-- ⚡ Fun fact: **I find humor in coding bugs; they're like unexpected plot twists in a movie.**
+⚡ Fun fact: **I find humor in coding bugs; they're like unexpected plot twists in a movie.**
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>
