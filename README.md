@@ -26,16 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" width="33" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" width="33" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="28" width="33" alt="django logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="28" width="33" alt="django logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="33" alt="mysql logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="33" alt="spring logo"  />-->
 <!--   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="28" width="100" alt="Django logo" /> -->
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="28" width="28" alt="Google Colab logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="28" width="33" alt="excel logo"  />
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="28" width="33" alt="excel logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="28" width="28" alt="Google Colab logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="28" width="33" alt="jupyter logo"  />
 </div>
 
