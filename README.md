@@ -29,7 +29,7 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="33" alt="mysql logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="33" alt="spring logo"  />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="28" width="33" alt="PowerBI logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/power bi/power bi-original.svg" height="28" width="33" alt="PowerBI logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css logo"  />
 <!--   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="28" height="33"/> -->
