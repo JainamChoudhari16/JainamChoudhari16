@@ -29,7 +29,8 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="33" alt="mysql logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="33" alt="spring logo"  />-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Power_BI_logo.svg/1200px-Microsoft_Power_BI_logo.svg.png" height="28" width="33" alt="Power BI logo" />
+  <img src="https://seeklogo.com/images/P/power-bi-logo-C9443A6EC7-seeklogo.com.png" height="28" width="33" alt="Power BI logo" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css logo"  />
