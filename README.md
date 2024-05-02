@@ -1,5 +1,5 @@
 <h1 align="center">Jainam Choudhari</h1>
-<!-- <h4 align="center">Looking for Internship | Java | React </h4> -->
+<h4 align="center">Looking for Job Opportunities | Python | PowerBI </h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jainam-choudhari/" target="_blank">
@@ -11,18 +11,18 @@
 </div>
 
 <br>
-- 🔭 I’m seeking opportunities in Data Science or Python Development roles.
-  
-- 🌱 I’m currently diving deep into **Python**, mastering its various libraries.
+-🔭 I’m seeking opportunities in Data Science or Python Development roles.
 
-- 📫 Reach out to me at **jainam160102@gmail.com**
+-🌱 I’m currently diving deep into **Python**, mastering its various libraries.
+
+-📫 Reach out to me at **jainam160102@gmail.com**
 
 <br>
 
-<!--<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="33" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="33" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo"  />
-</div> -->
+</div>
 
 <br>
 
