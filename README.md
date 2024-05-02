@@ -29,8 +29,9 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="33" alt="mysql logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="33" alt="spring logo"  />-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/PowerBI_logo_black.svg" height="28" width="33" alt="Power BI logo" />
-
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="28" width="100" alt="Django logo" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="28" width="28" alt="Google Colab logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" height="28" width="28" alt="Excel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
