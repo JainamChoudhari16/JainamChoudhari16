@@ -14,7 +14,9 @@
 🔭 I’m seeking opportunities in Data Science or Python Development roles.
 
 🌱 I’m currently diving deep into **Python**, mastering its various libraries and applications.
-📫 Reach out to me at **jainam160102@gmail.com**
+
+📫 Reach out to me at **jainam160102@gmail.com**.
+
 ⚡ Fun fact: **I find humor in coding bugs; they're like unexpected plot twists in a movie.**
 <br>
 
