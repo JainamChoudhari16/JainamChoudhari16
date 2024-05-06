@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" width="33" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" width="33" alt="pandas logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="28" width="33" alt="django logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="28" width="33" alt="matplotlib logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="33" alt="mysql logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="33" alt="spring logo"  />-->
 <!--   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="28" width="100" alt="Django logo" /> -->
